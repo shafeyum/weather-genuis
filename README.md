@@ -1,1 +1,3 @@
+#weathergenuis
+
 Weather Genius, notre projet web, se distingue en tant que plateforme interactive dédiée à accompagner les utilisateurs dans la création d'une station météo IoT. En fournissant des instructions détaillées, des listes de composants essentiels et des guides pratiques, notre site vise à faciliter la mise en place d'une station météo connectée, englobant les aspects tels que les besoins matériels, les outils logiciels, la modélisation, la réalisation, et le partage du code source. Cette initiative ne se limite pas à une simple acquisition de compétences en développement web. Elle aspire également à encourager une exploration plus profonde dans le domaine passionnant de l'IoT.
